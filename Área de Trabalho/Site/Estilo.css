@@ -1,0 +1,28 @@
+h1{
+  background-color: #ff0000;
+  width: 300px;
+  text-align: center;
+}
+#img1{
+  width: 30%;
+
+  height: 30%;
+}
+.img2{
+  width: 40%;
+  height: 40%;
+  padding-left: 100px;
+}
+img{
+  width: 20%;
+  height: 20%;
+}
+table, tr, td{
+  border: 1px solid black;
+
+}
+#img4{
+  padding-left: 300px;
+  width: 30%;
+  height: 30%;
+}
