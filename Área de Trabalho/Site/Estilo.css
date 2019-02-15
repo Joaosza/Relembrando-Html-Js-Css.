@@ -31,3 +31,15 @@ width: 70%;
 height: 100%;
 
 }
+#footer{
+  background: #000000;
+  color: white;
+
+}
+#CentralizarRede{
+  text-align: center;
+  color: white;
+}
+#imgCarosel{
+  height: 50%;
+}
